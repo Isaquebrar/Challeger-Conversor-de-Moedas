@@ -21,3 +21,14 @@ Conversão de Moedas, o usuário pode escolher entre diversas opções de conver
 Consulta à API: O programa consulta a API externa para obter as taxas de câmbio mais recentes.
 
 Interatividade: O usuário interage com o programa através do terminal, informando a moeda de origem, moeda de destino e o valor a ser convertido.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+-OS PRINCIPAIS DESAFIOS ENFRETADOS NO DESENVOLVIMENTO DO PROJETO FORAM:
+
+1. **Integração com a API**: Problemas de conexão e interpretação das respostas da API que me levou algum tempo.
+2. **Entrada do Usuário**: Garantir a validação de valores e o fluxo adequado no menu.
+3. **Gestão de Erros**: Tratar exceções e erros de rede sem interromper o programa.
+
+
+Esses desafios exigiram tempo e bastante cuidado na estruturação do código.
